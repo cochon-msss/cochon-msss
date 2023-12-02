@@ -18,12 +18,6 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
-<p align="center" style="mrgin-left=40%">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiminseong-dev&theme=nord_dark)
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jiminseong-dev&theme=flat&column=7)](https://github.com/dkssud8150/)
 
 
 
