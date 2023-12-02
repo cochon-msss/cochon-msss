@@ -19,5 +19,5 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=son344910@naver.com&layout=compact)](https://github.com/son344910@naver.com/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&layout=compact)](https://github.com/Jiminseong-dev/github-readme-stats)
 
