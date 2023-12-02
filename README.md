@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
-
+<p align="center">
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiminseong-dev&theme=nord_dark)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&exclude_repo=Jiminseong-dev.github.io&layout=compact&theme=tokyonight" />
+</p>
 
 
