@@ -18,7 +18,9 @@
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
-<p align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&layout=compact)](https://github.com/Jiminseong-dev/github-readme-stats)
-</p>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&exclude_repo=Jiminseong-dev.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jiminseong-dev&theme=tokyonight&show_icons=true" width="42%" />
+</a>
