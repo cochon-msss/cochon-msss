@@ -19,7 +19,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
 </p>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Jiminseong-dev&theme=nord)](https://github.com/Jiminseong-dev/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiminseong-dev&theme=nord_dark)
+
   
 <p align="center">
   <a href="s">
