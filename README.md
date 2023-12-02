@@ -20,14 +20,6 @@
 </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jiminseong-dev&theme=nord_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&exclude_repo=Jiminseong-dev.github.io&layout=compact&theme=tokyonight" />
 
-  
-<p align="center">
-  <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiminseong-dev&exclude_repo=Jiminseong-dev.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jiminseong-dev&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-</p>
 
