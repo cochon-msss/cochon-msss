@@ -22,7 +22,7 @@
 <br>
 <br>
 <br>
-<div align="center">
+<div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact&theme=algolia)
 
