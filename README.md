@@ -23,14 +23,15 @@
 <br>
 <br>
 <div>
+<div>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact&theme=algolia)
-
-<br>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cochon-msss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+</div>
+
+
+
 
 ## ⚙️ Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=son344910)](https://solved.ac/son344910)
