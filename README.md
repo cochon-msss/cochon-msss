@@ -32,6 +32,7 @@
 
 <br>
 
+## ⚙️ Algorithm
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=son344910)](https://solved.ac/son344910)
 </div>
 
