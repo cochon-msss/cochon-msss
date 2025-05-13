@@ -25,6 +25,10 @@
 <div align="center">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact&theme=algolia)
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cochon-msss)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
