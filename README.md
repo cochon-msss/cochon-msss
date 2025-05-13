@@ -17,9 +17,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact)
 
 </p>
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact)
+</div>
 
 
 
