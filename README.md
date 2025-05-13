@@ -16,10 +16,11 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 
-</p>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact)
+
+</p>
+
 
 
 
