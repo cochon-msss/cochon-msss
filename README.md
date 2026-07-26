@@ -59,6 +59,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </p>
 
+**Search / Observability**
+<p>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white"/>
+</p>
+
 <br>
 
 ### 현재 공부 중
@@ -66,12 +72,3 @@
 - Kafka를 실제 서비스에 적용하기 위한 학습
 - Redis 캐시 / 데이터 구조 활용
 - 매일 배운 내용은 [TIL](https://github.com/cochon-msss/TIL) 저장소에 정리하고 있습니다.
-
-<br>
-
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cochon-msss&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cochon-msss&layout=compact&hide_border=true&langs_count=8" />
-</p>
